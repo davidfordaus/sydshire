@@ -1,0 +1,49 @@
+---
+# Banner
+banner:
+  # Choose ONE of the following options:
+  title: Lawn Care Services for Your Home
+  title: Business Lawn Care Solutions
+  title: Cutting Edge Lawn Care
+  title: Green Lawns for Homes and Businesses
+  title: Professional Lawn Care Solutions
+  title: Lawn Care for a Greener Tomorrow
+  title: Expert Lawn Care Services
+  title: Residential Lawn Care Solutions
+  title: Commercial Lawn Care Experts
+  title: Lawn Care Made Easy
+  title: Perfect Lawn Care Services
+  title: Your Lawn Care Solution
+  title: Lawn Care for Business
+  title: Home Lawn Care Services
+  title: Lawn Care and Maintenance
+  title: Business Lawn Care Made Simple
+  title: Lawn Care for All Seasons
+  title: Quality Lawn Care Solutions
+  title: Lawn Care for Homeowners
+  title: Reliable Lawn Care Services
+  title: Lawn Care that Cares
+  title: Easy Lawn Care Solutions
+  title: Expert Lawn Care Team
+  title: Best Lawn Care Services
+  title: Lawn Care on Your Schedule
+  title: Commercial Lawn Care Solutions
+  title: Residential Lawn Care Experts
+  title: Lawn Care at Its Best
+  title: Affordable Lawn Care Services
+  title: Lawn Care for Every Need
+  title: Top Lawn Care Services
+  title: Lawn Care Solutions for All
+  title: Professional Lawn Care Team
+  title: Lawn Care for Home and Business
+  title: Fast Lawn Care Services
+  title: Lawn Care that Lasts
+  title: Effective Lawn Care Solutions
+  title: Lawn Care for Less
+  title: Green and Clean Lawn Care
+  
+  image: "/images/banner.png"
+  button:
+    enable: true
+    label: "Book Here"
+    link: "https://github.com/zeon-studio/hugoplate"

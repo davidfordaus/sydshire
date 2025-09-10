@@ -1,0 +1,16 @@
+{{#each features}}
+  - title: "{{ Title }}"
+    image: "/images/service-1.png"
+    content: "{{ Content }}"
+    bulletpoints:
+      {{#each Bulletpoints}}
+      - "{{this}}"
+      {{/each}}
+      
+    button:
+      enable: true
+      label: "{{ Button.Label }}"
+      link: "#"
+
+{{/each}}
+

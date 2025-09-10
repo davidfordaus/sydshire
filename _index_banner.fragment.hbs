@@ -1,0 +1,18 @@
+---
+# Banner
+banner:
+  # Choose ONE of the following options:
+  {{#each titles }}
+  title: "{{this}}"
+  {{/each}}
+
+  {{#each descriptions}}
+  content: "{{this}}"
+  {{/each}}
+
+  {{ content }}
+  image: "/images/banner.png"
+  button:
+    enable: true
+    label: "Book Here"
+    link: "https://github.com/zeon-studio/hugoplate"

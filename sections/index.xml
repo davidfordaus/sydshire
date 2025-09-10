@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Shire Lawn Care</title>
+    <link>//localhost:1313/sections/</link>
+    <description>Recent content in Sections on Shire Lawn Care</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>What Users Are Saying About our services</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/davidfordaus&#34; style=&#34;min-width:320px;height:700px;&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;</description>
+    </item>
+  </channel>
+</rss>

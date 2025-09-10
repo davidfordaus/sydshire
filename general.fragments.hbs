@@ -1,0 +1,39 @@
+---
+# Banner
+
+TITLES
+  # Choose ONE of the following options:
+  {{#each titles }}
+  title: "{{this}}"
+  {{/each}}
+
+DESCRIPTIONS
+  {{#each descriptions}}
+  content: "{{this}}"
+  {{/each}}
+
+
+TESTIMONIALS
+  {{#each testimonials}}
+    content: "{{this}}"
+  {{/each}}
+
+
+PEOPLE
+  {{#each peopleProfiles}}
+    content: "{{this}}"
+  {{/each}}
+
+
+  About Us:
+  {{ aboutus }}
+
+
+  {{ content }}
+
+  image: "/images/banner.png"
+  button:
+    enable: true
+    label: "Book Here"
+    link: "https://shirelawncare.com.au"
+

@@ -1,0 +1,155 @@
+  - title: "Reliable and Timely Service"
+    image: "/images/service-1.png"
+    content: "At East Sydney Lawns, we understand the importance of reliability and timeliness in lawn care. Our team of experts will work with you to create a schedule that suits your needs."
+    bulletpoints:
+      - "Punctual and reliable service"
+      - "Experienced and trained lawn care professionals"
+      - "Flexible scheduling to suit your needs"
+      
+    button:
+      enable: true
+      label: "Get a Quote"
+      link: "#"
+
+
+  - title: "Competitive Pricing"
+    image: "/images/service-1.png"
+    content: "We offer competitive pricing for our lawn care services, without compromising on quality. Our goal is to provide cost-effective solutions for residential and commercial properties."
+    bulletpoints:
+      - "Transparent and affordable pricing"
+      - "No hidden costs or fees"
+      - "Discounts for long-term contracts"
+      
+    button:
+      enable: true
+      label: "Get a Quote"
+      link: "#"
+
+
+  - title: "Customized Lawn Care Solutions"
+    image: "/images/service-1.png"
+    content: "Every lawn is unique, and we understand that. Our team will work with you to create a customized lawn care plan that meets your specific needs and budget."
+    bulletpoints:
+      - "Personalized lawn care plans"
+      - "Flexible services to suit your needs"
+      - "Regular lawn inspections and maintenance"
+      
+    button:
+      enable: true
+      label: "Get a Quote"
+      link: "#"
+
+
+  - title: "Eco-Friendly Practices"
+    image: "/images/service-1.png"
+    content: "At East Sydney Lawns, we're committed to reducing our environmental impact. We use eco-friendly practices and equipment to minimize our carbon footprint."
+    bulletpoints:
+      - "Eco-friendly lawn care products"
+      - "Reduced water consumption"
+      - "Sustainable lawn maintenance practices"
+      
+    button:
+      enable: true
+      label: "Learn More"
+      link: "#"
+
+
+  - title: "Experienced and Trained Professionals"
+    image: "/images/service-1.png"
+    content: "Our team of lawn care professionals are experienced and trained to provide high-quality service. We take pride in our work and strive to exceed your expectations."
+    bulletpoints:
+      - "Experienced and trained lawn care professionals"
+      - "Regular training and updates"
+      - "Insured and bonded for your protection"
+      
+    button:
+      enable: true
+      label: "About Us"
+      link: "#"
+
+
+  - title: "Comprehensive Lawn Care Services"
+    image: "/images/service-1.png"
+    content: "We offer a wide range of lawn care services to meet your needs, from mowing and edging to fertilization and weed control."
+    bulletpoints:
+      - "Lawn mowing and edging"
+      - "Fertilization and weed control"
+      - "Hedge trimming and pruning"
+      
+    button:
+      enable: true
+      label: "Services"
+      link: "#"
+
+
+  - title: "Customer Satisfaction Guarantee"
+    image: "/images/service-1.png"
+    content: "At East Sydney Lawns, we're committed to customer satisfaction. If you're not satisfied with our service, we'll work with you to make it right."
+    bulletpoints:
+      - "100% satisfaction guarantee"
+      - "Prompt resolution of any issues"
+      - "Customer feedback and reviews"
+      
+    button:
+      enable: true
+      label: "Testimonials"
+      link: "#"
+
+
+  - title: "Regular Lawn Maintenance"
+    image: "/images/service-1.png"
+    content: "Regular lawn maintenance is essential to keep your lawn looking its best. We offer flexible scheduling to suit your needs."
+    bulletpoints:
+      - "Regular lawn mowing and edging"
+      - "Lawn fertilization and weed control"
+      - "Hedge trimming and pruning"
+      
+    button:
+      enable: true
+      label: "Schedule a Service"
+      link: "#"
+
+
+  - title: "Local and Family-Owned"
+    image: "/images/service-1.png"
+    content: "At East Sydney Lawns, we're a local and family-owned business. We're proud to serve our community and provide personalized service."
+    bulletpoints:
+      - "Local and family-owned business"
+      - "Personalized service"
+      - "Community-focused and committed"
+      
+    button:
+      enable: true
+      label: "About Us"
+      link: "#"
+
+
+  - title: "Free Quotes and Consultations"
+    image: "/images/service-1.png"
+    content: "We offer free quotes and consultations to help you understand your lawn care needs and options."
+    bulletpoints:
+      - "Free quotes and consultations"
+      - "No obligation or commitment"
+      - "Personalized advice and guidance"
+      
+    button:
+      enable: true
+      label: "Get a Quote"
+      link: "#"
+
+
+  - title: "State-of-the-Art Equipment"
+    image: "/images/service-1.png"
+    content: "We use state-of-the-art equipment to ensure efficient and effective lawn care services."
+    bulletpoints:
+      - "Modern and well-maintained equipment"
+      - "Efficient and effective service"
+      - "Reduced environmental impact"
+      
+    button:
+      enable: true
+      label: "Learn More"
+      link: "#"
+
+
+
