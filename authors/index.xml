@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Shire Lawn Care</title>
-    <link>//localhost:1313/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Shire Lawn Care</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/authors/katie-becker/</link>
+      <link>/authors/katie-becker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/katie-becker/</guid>
+      <guid>/authors/katie-becker/</guid>
       <description>&lt;p&gt;As our friendly Receptionist, Katie is often the first point of contact for our clients. With her warm and welcoming demeanor, Katie ensures that every client feels valued and supported. She coordinates scheduling, answers queries, and provides exceptional customer service to ensure a positive experience with Shire Lawn Care&lt;/p&gt;</description>
     </item>
     <item>
       <title>John T</title>
-      <link>//localhost:1313/authors/john-samson/</link>
+      <link>/authors/john-samson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/john-samson/</guid>
+      <guid>/authors/john-samson/</guid>
       <description>&lt;p&gt;Meet John Samson, our Operations Manager at Shire Lawn Care. With over 10 years of experience in the lawn care industry, John oversees our team to ensure seamless delivery of high-quality services to our residential and commercial clients. His expertise in team management and lawn care solutions has been instrumental in driving our company&amp;rsquo;s growth and success.&lt;/p&gt;</description>
     </item>
     <item>
       <title>William Jacob</title>
-      <link>//localhost:1313/authors/michael-davis/</link>
+      <link>/authors/michael-davis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/michael-davis/</guid>
+      <guid>/authors/michael-davis/</guid>
       <description>&lt;p&gt;With over 5 years of experience in lawn care, Michael Davis is one of our trusted Lawn Care Specialists at Shire Lawn Care. Michael takes pride in his work, providing meticulous attention to detail to ensure every lawn is perfectly manicured. His expertise in lawn maintenance, edging, and pruning has earned him a reputation as one of our top technicians&lt;/p&gt;</description>
     </item>
   </channel>

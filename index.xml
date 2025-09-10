@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shire Lawn Care</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Shire Lawn Care</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-1/</link>
+      <link>/blog/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-1/</guid>
+      <guid>/blog/post-1/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-2/</link>
+      <link>/blog/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-2/</guid>
+      <guid>/blog/post-2/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-3/</link>
+      <link>/blog/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-3/</guid>
+      <guid>/blog/post-3/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-4/</link>
+      <link>/blog/post-4/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-4/</guid>
+      <guid>/blog/post-4/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/_index-orig/</link>
+      <link>/_index-orig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/_index-orig/</guid>
+      <guid>/_index-orig/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/authors/katie-becker/</link>
+      <link>/authors/katie-becker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/katie-becker/</guid>
+      <guid>/authors/katie-becker/</guid>
       <description>&lt;p&gt;As our friendly Receptionist, Katie is often the first point of contact for our clients. With her warm and welcoming demeanor, Katie ensures that every client feels valued and supported. She coordinates scheduling, answers queries, and provides exceptional customer service to ensure a positive experience with Shire Lawn Care&lt;/p&gt;</description>
     </item>
     <item>
       <title>John T</title>
-      <link>//localhost:1313/authors/john-samson/</link>
+      <link>/authors/john-samson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/john-samson/</guid>
+      <guid>/authors/john-samson/</guid>
       <description>&lt;p&gt;Meet John Samson, our Operations Manager at Shire Lawn Care. With over 10 years of experience in the lawn care industry, John oversees our team to ensure seamless delivery of high-quality services to our residential and commercial clients. His expertise in team management and lawn care solutions has been instrumental in driving our company&amp;rsquo;s growth and success.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>//localhost:1313/privacy-policy/</link>
+      <link>/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/privacy-policy/</guid>
+      <guid>/privacy-policy/</guid>
       <description>&lt;h3 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h3&gt;&#xA;&lt;p&gt;Shire Lawn Care is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.&#xA;We have adopted the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The NPPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.&lt;/p&gt;</description>
     </item>
     <item>
@@ -80,9 +80,9 @@
     </item>
     <item>
       <title>William Jacob</title>
-      <link>//localhost:1313/authors/michael-davis/</link>
+      <link>/authors/michael-davis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/michael-davis/</guid>
+      <guid>/authors/michael-davis/</guid>
       <description>&lt;p&gt;With over 5 years of experience in lawn care, Michael Davis is one of our trusted Lawn Care Specialists at Shire Lawn Care. Michael takes pride in his work, providing meticulous attention to detail to ensure every lawn is perfectly manicured. His expertise in lawn maintenance, edging, and pruning has earned him a reputation as one of our top technicians&lt;/p&gt;</description>
     </item>
   </channel>

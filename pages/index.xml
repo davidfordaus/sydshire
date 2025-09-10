@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Shire Lawn Care</title>
-    <link>//localhost:1313/pages/</link>
+    <link>/pages/</link>
     <description>Recent content in Pages on Shire Lawn Care</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy</title>
-      <link>//localhost:1313/privacy-policy/</link>
+      <link>/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/privacy-policy/</guid>
+      <guid>/privacy-policy/</guid>
       <description>&lt;h3 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h3&gt;&#xA;&lt;p&gt;Shire Lawn Care is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.&#xA;We have adopted the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The NPPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.&lt;/p&gt;</description>
     </item>
   </channel>
