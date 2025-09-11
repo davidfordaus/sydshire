@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watering on Shire Lawn Care</title>
+    <link>/tags/watering/</link>
+    <description>Recent content in Watering on Shire Lawn Care</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Apr 2025 05:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/watering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water Management</title>
+      <link>/blog/garden-water-management/</link>
+      <pubDate>Fri, 04 Apr 2025 05:00:00 +0000</pubDate>
+      <guid>/blog/garden-water-management/</guid>
+      <description>&lt;p&gt;Effective water management in your garden comes down to one key principle: water deeply and less frequently. This approach encourages plants to develop strong, deep root systems, making them more resilient to heat and drought.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -3,7 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/drought-tolerance/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/garden-care/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/garden-health/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/irrigation/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/maintenance/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/water-conservation/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/garden-water-management/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/watering/</loc>
+    <lastmod>2025-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/aesthetics/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/deadheading/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/garden-maintenance/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/garden-tools/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/herbicides/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mulching/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/plant-health/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pruning/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/pruning-and-plant-shaping/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/shaping-plants/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/trimming/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/weed-control/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/weed-control/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/weeding/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/weeds/</loc>
+    <lastmod>2024-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/application/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
@@ -11,13 +89,22 @@
     <loc>/categories/architecture/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>/tags/buffalo/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/tags/couch/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/data/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/grass/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/grass/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/australian-grass-types/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/post-1/</loc>
@@ -32,6 +119,15 @@
     <loc>/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/kikuyu/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/lawns/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/lawns/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/nextjs/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
@@ -42,9 +138,6 @@
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/software/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/tailwind/</loc>
@@ -65,6 +158,10 @@
     <loc>/contact/</loc>
   </url><url>
     <loc>/authors/john-samson/</loc>
+  </url><url>
+    <loc>/authors/john-t/</loc>
+  </url><url>
+    <loc>/authors/michael-d/</loc>
   </url><url>
     <loc>/pages/</loc>
   </url><url>

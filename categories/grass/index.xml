@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grass on Shire Lawn Care</title>
+    <link>/categories/grass/</link>
+    <description>Recent content in Grass on Shire Lawn Care</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/grass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grass Types</title>
+      <link>/blog/australian-grass-types/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/australian-grass-types/</guid>
+      <description>&lt;p&gt;Choosing the right grass is crucial for a healthy Australian lawn, with most options falling into the warm-season category due to the climate. The most popular choices are &lt;strong&gt;Buffalo&lt;/strong&gt;, &lt;strong&gt;Couch&lt;/strong&gt;, and &lt;strong&gt;Kikuyu&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

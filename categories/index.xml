@@ -6,8 +6,36 @@
     <description>Recent content in Categories on Shire Lawn Care</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 05:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Garden Care</title>
+      <link>/categories/garden-care/</link>
+      <pubDate>Fri, 04 Apr 2025 05:00:00 +0000</pubDate>
+      <guid>/categories/garden-care/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maintenance</title>
+      <link>/categories/maintenance/</link>
+      <pubDate>Fri, 04 Apr 2025 05:00:00 +0000</pubDate>
+      <guid>/categories/maintenance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aesthetics</title>
+      <link>/categories/aesthetics/</link>
+      <pubDate>Thu, 04 Apr 2024 05:00:00 +0000</pubDate>
+      <guid>/categories/aesthetics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weeds</title>
+      <link>/categories/weeds/</link>
+      <pubDate>Thu, 04 Apr 2024 05:00:00 +0000</pubDate>
+      <guid>/categories/weeds/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Application</title>
       <link>/categories/application/</link>
@@ -27,6 +55,20 @@
       <link>/categories/data/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>/categories/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grass</title>
+      <link>/categories/grass/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/categories/grass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lawns</title>
+      <link>/categories/lawns/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/categories/lawns/</guid>
       <description></description>
     </item>
     <item>

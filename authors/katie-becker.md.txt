@@ -1,0 +1,21 @@
+---
+title: 
+email: sales@shirelawncare.com.au
+image: "/images/avatar.png"
+description: this is meta description
+social:
+  # - name: github
+  #   icon: fa-brands fa-github
+  #   link: https://github.com
+
+  # - name: twitter
+  #   icon: fa-brands fa-twitter
+  #   link: https://twitter.com
+
+  # - name: linkedin
+  #   icon: fa-brands fa-linkedin
+  #   link: https://linkedin.com
+---
+
+As our friendly Receptionist, Katie is often the first point of contact for our clients. With her warm and welcoming demeanor, Katie ensures that every client feels valued and supported. She coordinates scheduling, answers queries, and provides exceptional customer service to ensure a positive experience with Shire Lawn Care
+
